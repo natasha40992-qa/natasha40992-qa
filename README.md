@@ -1,7 +1,7 @@
 ## Привет！ 👋
 Меня зовут Наташа, я QA Engineer из Москвы
 
-## 📊 Статистика<img width="2400" height="1700" alt="internship" src="https://github.com/user-attachments/assets/afdc4287-a2d4-41e2-90d7-01294666d54c" />
+## 📊 Статистика
 
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=natasha40992-qa)
