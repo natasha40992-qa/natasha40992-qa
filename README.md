@@ -77,15 +77,12 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/internship.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/natasha40992-qa/natasha40992-qa/main/internship.png)
-<img width="2400" height="3392" alt="Certificate" src="https://github.com/user-attachments/assets/0cfaee67-0458-4fdc-b6f8-a125e5fbc1db" />
-![Uploading internship.png…]()
+<img width="2400" height="1700" alt="internship" src="https://github.com/user-attachments/assets/33452762-78b0-4874-992e-6e1870aea3e1" />
+
 
 <br>
 
 ## 🎒 Образование
-[<img src="/Certificate.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/natasha40992-qa/natasha40992-qa/main/Ctrtificate.png)
-![Uploading internship.png…]()
 <img width="2400" height="3392" alt="Certificate" src="https://github.com/user-attachments/assets/a6cb7cdd-d9c0-44fa-8924-59c8ea9c7d9b" />
 
 <br>
