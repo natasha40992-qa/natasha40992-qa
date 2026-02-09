@@ -83,7 +83,7 @@
 <br>
 
 ## 🎒 Образование
-<img width="2400" height="3392" alt="Certificate" src="https://github.com/user-attachments/assets/a6cb7cdd-d9c0-44fa-8924-59c8ea9c7d9b" />
+<img width="2400" height="3392" alt="0faa5491aad" src="https://github.com/user-attachments/assets/572ab103-87f9-40b8-a261-3a7689777c7c" />
 
 <br>
 <br>
