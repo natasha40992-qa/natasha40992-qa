@@ -76,14 +76,10 @@
 
 <br>
 
-## 🪴 Практика и стажировка
-<img width="2400" height="1700" alt="internship" src="https://github.com/user-attachments/assets/33452762-78b0-4874-992e-6e1870aea3e1" />
 
 
 <br>
 
-## 🎒 Образование
-<img width="2400" height="3392" alt="0faa5491aad" src="https://github.com/user-attachments/assets/572ab103-87f9-40b8-a261-3a7689777c7c" />
 
 <br>
 <br>
